@@ -1,0 +1,26 @@
+.container{
+  background-color: rgb(170, 170, 230);
+  height: 480px;
+  width: 400px;
+  text-align: center;
+  padding: 25PX;
+  font-family: Robbotic, sans-serif;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 12px;
+ 
+}
+.container >h1{
+  font-size: 66px;
+}
+.container >p {
+  font-size: 44px;
+}
+.container >img{
+  width: 125px;
+}
+img{
+  margin: 0px auto;
+}
